@@ -1,0 +1,12 @@
+[submodule "datasets/math23k"]
+	path = datasets/math23k
+	url = https://huggingface.co/datasets/sustech/math23k
+[submodule "datasets/minif2f"]
+	path = datasets/minif2f
+	url = https://huggingface.co/datasets/hoskinson-center/minif2f-lean4
+[submodule "datasets/MATH"]
+	path = datasets/MATH
+	url = https://huggingface.co/datasets/competition_math
+[submodule "datasets/gsm8k"]
+	path = datasets/gsm8k
+	url = https://huggingface.co/datasets/gsm8k
